@@ -1,6 +1,6 @@
 # 🎬 IMDB Movie Review Sentiment Analysis (DistilBERT Transformer)
 
-This project is a **movie review sentiment analysis web app** built with **Streamlit** and powered by a **fine-tuned DistilBERT Transformer model** trained on the [IMDB dataset](https://ai.stanford.edu/~amaas/data/sentiment/).  
+This project is a **movie review sentiment analysis web app** built with **Streamlit** and powered by a **DistilBERT Transformer model** trained on the [IMDB dataset](https://ai.stanford.edu/~amaas/data/sentiment/).  
 It predicts whether a given movie review is **Positive 😊** or **Negative 😞**.
 
 ## 🚀 Features
